@@ -1,14 +1,13 @@
 ﻿#ifndef AUDIOOUTPUT_H
 #define AUDIOOUTPUT_H
-extern "C"
-{
-#include "SDL2-2.0.10/include/SDL.h"
-#include "libswresample/swresample.h"
-}
 #include "avframequeue.h"
 #include "avsync.h"
 #ifdef __cplusplus  ///
-
+extern "C"
+{
+#include "SDL.h"
+#include "libswresample/swresample.h"
+}
 #endif
 
 

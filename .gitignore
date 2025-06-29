@@ -1,0 +1,43 @@
+# Qt Project .gitignore
+
+# Build directories
+build-*
+*/build-*
+
+# Qt Creator files
+*.user
+*.user.*.qmake
+*.qmake.stash
+*.qbs
+*.qbs.user
+*.qbs.user.*
+*.qmake.conf
+*.qmake.conf.*
+*.qmake.cache
+*.qmake.cache.*
+*.qmake.user
+*.qmake.user.*
+*.qmake.stash
+*.qmake.stash.*
+*.qmake.conf
+*.qmake.conf.*
+*.qmake.cache
+*.qmake.cache.*
+*.qmake.user
+*.qmake.user.*
+*.qmake.stash
+*.qmake.stash.*
+*.qmake.conf
+*.qmake.conf.*
+*.qmake.cache
+*.qmake.cache.*
+*.qmake.user
+*.qmake.user.*
+*.qmake.stash
+*.qmake.stash.*
+*.qmake.conf
+*.qmake.conf.*
+*.qmake.cache
+*.qmake.cache.*
+*.qmake.user
+*.qmake.user
